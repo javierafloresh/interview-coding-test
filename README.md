@@ -1,1 +1,1 @@
-Intenté ordenar un poco el código, en un comienzo pensé en realizar un foreach pero por temas de rendimiento con node.js funciona mejor el for con if, otra opción que había pensado era organizar los productos con un switch y generar los cases necesarios.
+Intenté ordenar un poco el código, en un comienzo pensé en realizar un foreach pero por temas de rendimiento con node.js funciona mejor utilizar "for" con "if", otra opción que había pensado era organizar los productos con un switch y generar los cases necesarios.
